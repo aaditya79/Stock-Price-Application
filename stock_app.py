@@ -3,7 +3,7 @@ import yfinance as yf
 
 st.write("""
 # Stock Price Application 
-###### Found below are the opening and closing prices for different stocks between 2012-06-02 and 2022-06-02. 
+###### Found below are the opening and closing prices for different stocks between 2012-6-2 and 2022-6-2. 
 """)
 
 st.write("""
